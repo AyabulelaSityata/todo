@@ -1,0 +1,83 @@
+{
+    "info": [
+        {
+            "name": "Ayabulela Sityata",
+            "birth": "16/06/1997",
+            "place": "Cape Town, Western Cape, South Africa",
+            "cell": "0621383858",
+            "email": "sityataayabulela@gmail.com",
+            "language": "English & IsiXhosa",
+            "relocate": "Willing to relocate anywhere"
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institution": "Life Choices Academy",
+            "major": "Coding & Web Development",
+            "year": "Current"
+        },
+        {
+            "id": 2,
+            "institution": "Sinako Secondary High School",
+            "grade": "12 Matric",
+            "year": 2015
+        }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "image": "",
+            "level": "Intermediate"
+        },
+        {
+            "id": 5,
+            "name": "VueJS",
+            "image": "",
+            "level": "Intermediate"
+        }
+    ],
+    "getcv": [
+        {
+            "id": 1,
+            "link": "",
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "",
+            "description": "",
+            "image": "",
+            "github": "",
+            "netlify": ""
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "",
+            "image": "",
+            "message": ""
+        }
+    ]
+}
